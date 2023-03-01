@@ -18,7 +18,7 @@ In the example above, the MaterialCommunityIcons are on the first and last row, 
 
 Take a screenshot similar to the example.
 
- 
+ ![p](https://github.com/bell-kevin/practiceWithIcons/blob/main/funIcons.PNG)
 
 Submission: Zip together the screenshot and the root folder of the project, and submit a single zipped file.
 
@@ -39,8 +39,6 @@ https://reactnative.dev/docs/environment-setup
 https://reactnative.dev/docs/components-and-apis
 
 Check out App.js here in the code files for the computer algorithm code.
-
-![p]()
 
 ## Reading: Storing Projects 
 
